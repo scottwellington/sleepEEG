@@ -12,7 +12,7 @@ The dataset is obtainable here: [Sleep-EDF Database](https://www.physionet.org/c
 
 The full datset is >8.1gb. Naturally, we don't expect you to download all this for marking purposes (and the preprocessing for each data file can take up to a minute), so I have randomly selected test data (as below), keeping the full package to download <50mb.
 
-With apologies, brain-signal processing requires some libraries: I have included a `requirement.txt` to help make this process easier.
+With apologies, brain-signal processing requires some libraries: I have included a `requirement.txt` to help make this process easier (`pip install -r requirements.txt`)
 
 This model has been designed to work on the University of Bath's Hex compute cluster; I understand that all testing is to be done on this service, so this code should run without any issues.
 

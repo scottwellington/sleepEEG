@@ -1,0 +1,14 @@
+importlib-metadata
+mne
+torch
+torchaudio
+torchvision
+opencv-python
+numpy
+matplotlib
+pickleshare
+pandas
+Braindecode
+scikit-learn
+pyEDFlib
+GPUtil
